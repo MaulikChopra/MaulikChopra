@@ -1,5 +1,5 @@
 <!-- MAIN CONTENT -->
-
+<link rel="stylesheet" type="text/css" href="styles.css">
 <h1 align="center">Hi 👋, I'm Maulik Chopra</h1>
 <h3 align="center">A passionate Full📱Stack💻 developer. I can build User Friendly progressive web apps, powerful RESTful APIs, and a robust backend that scales 🚀 to the MOON 🌕!</h3>
 
@@ -148,26 +148,7 @@
 
 📫 Email me **@maulikchopra10@gmail.com**
 
-<style>
-    a{
-        margin-right: 0.5rem;
-    }
-    img{
-        height: 3.5rem;
-        width: auto;  
-        border-radius: 0.5rem;   
-    }
-    #bg-pd-img{
-        padding: 0px 0.5rem; 
-        background-color:white
-    }
-    #lang-stats-card{
-        height: auto;
-    }
-    .grid-container{
-        display: grid;
-    }
-</style>
+
 
 <!-- EXTRA CODE/ UNUSED CODE/ MISCELANEOUS CODE -->
 <!-- <p>
