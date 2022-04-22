@@ -132,7 +132,7 @@
   <!-- MAIL -->
   <a href="mailto:maulikchopra10@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="maulikchopra10@gmail.com" height="30px"/></a>
   <!-- LINKEDIN -->
-  <a href="https://linkedin.com/in/maulikchopra" target="blank"><img  align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="maulikchopra" height="30px"/></a>
+  <a href="https://linkedin.com/in/maulikchopra" target="blank"><img  align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PK_Drf8Hdfv-bIMJttY3sQa97T8rh9Tg8Yb7R7E_vC_cemcEXoigJ_dQ5qBN7E3yRo8&usqp=CAU" alt="maulikchopra" height="30px"/></a>
   <!-- MEDIUM -->
   <a href="https://medium.com/@maulikchopra" target="blank"><img align="center"  src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="@maulikchopra" height="30px"/></a>
   <!-- YOUTUBE -->
@@ -146,9 +146,6 @@
   <!-- LEETCODE -->
   <a href="https://www.leetcode.com/maulikchopra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maulikchopra" height="30px"/></a>
 </p>
-  
-📫 Email me **@maulikchopra10@gmail.com**
-
 <!-- <style>
     a{
         margin-right: 0.5rem;
