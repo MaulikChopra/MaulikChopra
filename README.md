@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Maulik Chopra
 
-### A passionate Full📱Stack💻 developer. I can build User Friendly progressive web apps, powerful RESTful APIs, and a robust backend that scales 🚀 to the MOON 🌕!
+### A passionate Full📱Stack💻 Web developer. I can build User Friendly progressive web apps, powerful RESTful APIs, and a robust backend that scales 🚀 to the MOON 🌕!
 
 </div>
 
@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **NEXT.js, React.js, Django, or Python Data Structures and Alogrithms**
 
-- 📝 I regularly write articles on [My Medium blog](https://medium.com/@maulikchopra)
+- 📝 I regularly write articles on **[My Medium blog](https://medium.com/@maulikchopra)**
 
-- 📄 Know about my experiences in [My Resume](https://bit.ly/37YjBx2)
+- 📄 Know about my experiences in **[My Resume](https://bit.ly/37YjBx2)**
 
 - ⚡ Fun fact: **I am a Perfectionist.**
 
@@ -29,61 +29,61 @@
 
 <p align="left">
     <!-- PYTHON -->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="45px"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50px"/></a>
     <!-- TYPESCIPT -->
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="45px"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="50px"/></a>
     <!-- JAVASCRIPT -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="45px"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50px"/></a>
     <!-- HTML -->
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="45px"/></a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50px"/></a>
     <!-- CSS -->
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="45px"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50px"/></a>
 </p>
 
 ### Languages I am comfortable with:
 
 <p align="left">
     <!-- ARDUINO -->
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="45px"/></a> 
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="50px"/></a> 
     <!-- JAVA -->
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="45px"/></a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50px"/></a>
 </p>
 
 ### Frontend Technologies I Rock at:
 
 <p align="left">
     <!-- REACT.JS -->
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="45px"/></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="50px"/></a>
     <!-- NEXT.JS -->
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img style="background-color: white;" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="45px"/></a> 
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://ideas.byteridge.com/content/images/2020/08/nextjs-image.jpeg" alt="nextjs" height="50px"/></a> 
     <!-- TAILWIND CSS -->
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="45px"/></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="50px"/></a>
     <!-- BOOTSTRAP -->
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="45px"/></a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="50px"/></a>
 </p>
 
 ### Backend Technologies I Rock at:
 
 <p align="left">
     <!-- DJANGO -->
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="45px"/></a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="50px"/></a>
     <!-- DJANGO REST FRAMEWORK -->
-    <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer"><img src="https://ksr-ugc.imgix.net/assets/011/705/984/4ea78430d3ad7dc88106a7b973248ba7_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1463687041&auto=format&frame=1&q=92&s=16f9ae9168eecef976e5a19887afb152" alt="DjangoRESTframework" height="45px"/></a> 
+    <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer"><img src="https://ksr-ugc.imgix.net/assets/011/705/984/4ea78430d3ad7dc88106a7b973248ba7_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1463687041&auto=format&frame=1&q=92&s=16f9ae9168eecef976e5a19887afb152" alt="DjangoRESTframework" height="50px"/></a> 
     <!-- NODE.JS -->
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs" height="45px"/></a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://www.pngkit.com/png/full/66-667065_js-club-new-balance-png-logo-node-js.png" alt="nodejs" height="50px"/></a>
     <!-- FIREBASE -->
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="45px"/></a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50px"/></a>
 </p>
 
 ### Databases I love:
 
 <!-- PostgreSQL -->
 <p align="left">
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="45px"/></a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="50px"/></a>
     <!-- MONGODB -->
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="45px"/></a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50px"/></a>
     <!-- SQLITE -->
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="45px"/></a>
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="50px"/></a>
 </p>
 
 <!-- TOOLS I USE TO CODE -->
@@ -92,19 +92,19 @@
 
 <p>
     <!-- LINUX -->
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="45px"/></a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="50px"/></a>
     <!-- GIT -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="45px"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50px"/></a>
     <!-- DOCKER -->
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="45px"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="50px"/></a>
     <!-- WEBPACK -->
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" height="45px"/></a>
+    <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://jessecolligan.com/images/webpack_logo.png" alt="webpack" height="50px"/></a>
     <!-- HEROKU -->
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="45px"/></a>   
+    <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="50px"/></a>   
     <!-- POSTMAN -->
-    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="45px"/></a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50px"/></a>
     <!-- AMAZON WEB SERVICES AWS -->
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" alt="aws" height="45px"/></a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" alt="aws" height="50px"/></a>
 </p>
 
 <hr>
