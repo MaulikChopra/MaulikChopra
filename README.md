@@ -25,7 +25,7 @@
 
 <hr>
 
-### Languages I am Proficient in:
+### Languages I am Proficient at:
 
 <p align="left">
     <!-- PYTHON -->
@@ -38,11 +38,7 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50px"/></a>
     <!-- CSS -->
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50px"/></a>
-</p>
-
-### Languages I am comfortable with:
-
-<p align="left">
+<!-- ### Languages I am comfortable with: -->
     <!-- ARDUINO -->
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="50px"/></a> 
     <!-- JAVA -->
