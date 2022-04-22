@@ -1,7 +1,11 @@
 <!-- MAIN CONTENT -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Maulik Chopra</h1>
-<h3 align="center">A passionate Full📱Stack💻 developer. I can build User Friendly progressive web apps, powerful RESTful APIs, and a robust backend that scales 🚀 to the MOON 🌕!</h3>
+# Hi 👋, I'm Maulik Chopra
+
+### A passionate Full📱Stack💻 developer. I can build User Friendly progressive web apps, powerful RESTful APIs, and a robust backend that scales 🚀 to the MOON 🌕!
+
+</div>
 
 - 🔭 I’m currently working on a **FullStack Twitter clone**
 
@@ -20,8 +24,9 @@
 - 😂 Funny fact: **My humour is as bad as Angular**
 
 <hr>
-<!-- LANGUAGES I AM PROFICIENT AT -->
-<h3 align="left">Languages I am Proficient in:</h3>
+
+### Languages I am Proficient in:
+
 <p align="left">
     <!-- PYTHON -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="45px"/></a>
@@ -35,8 +40,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="45px"/></a>
 </p>
 
-<!-- LANGUAGES I AM COMFORTABLE WITH -->
-<h3 align="left">Languages I am comfortable with:</h3>
+### Languages I am comfortable with:
+
 <p align="left">
     <!-- ARDUINO -->
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="45px"/></a> 
@@ -44,21 +49,21 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="45px"/></a>
 </p>
 
-<!-- FRONTEND TECHNOLOGIES I ROCK AT -->
-<h3 align="left">Frontend Technologies I Rock at:</h3>
+### Frontend Technologies I Rock at:
+
 <p align="left">
     <!-- REACT.JS -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="45px"/></a>
     <!-- NEXT.JS -->
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="45px"/></a> 
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img style="background-color: white;" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="45px"/></a> 
     <!-- TAILWIND CSS -->
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="45px"/></a>
     <!-- BOOTSTRAP -->
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="45px"/></a>
 </p>
 
-<!-- BACKEND TECHNOLOGIES I ROCK AT -->
-<h3 align="left">Backend Technologies I Rock at:</h3>
+### Backend Technologies I Rock at:
+
 <p align="left">
     <!-- DJANGO -->
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="45px"/></a>
@@ -70,8 +75,8 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="45px"/></a>
 </p>
 
-<!-- DATABASES  -->
-<h3 align="left">Databases I can Migrate:</h3>
+### Databases I love:
+
 <!-- PostgreSQL -->
 <p align="left">
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="45px"/></a>
@@ -82,8 +87,10 @@
 </p>
 
 <!-- TOOLS I USE TO CODE -->
-<h3 align="left">Tools I use while coding:</h3>
-<p align="left">
+
+### My Tools:
+
+<p>
     <!-- LINUX -->
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="45px"/></a>
     <!-- GIT -->
@@ -102,45 +109,48 @@
 
 <hr>
 
-<h3 align="center">My Burger Stack</h3>
-<img align="center"src="mytechstack.png" height="400px"/>
+<div align="center">
+
+### My Burger Stack
+
+  <img src="mytechstack.png" height="400px"/>
+</div>
 
 <hr>
 
-<!-- LANGUAGES STATS CARD  -->
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maulikchopra&show_icons=true&locale=en&layout=compact" alt="maulikchopra" />
-</p>
+<!-- LANGUAGES STATS CARD -->
+
+![MaulikChopra Top languages used chart](https://github-readme-stats.vercel.app/api/top-langs?username=maulikchopra&show_icons=true&locale=en&layout=compact)
 
 <hr>
 
-### Blogs posts
+<!-- ### Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<!-- <hr>  -->
 
-<hr>
-<!-- SOCIALS | CONNECT WITH ME -->
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
+
 <p align="left">
-    <!-- MAIL -->
-    <a href="mailto:maulikchopra10@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="maulikchopra10@gmail.com" height="30px"/></a>
-    <!-- LINKEDIN -->
-    <a href="https://linkedin.com/in/maulikchopra" target="blank"><img  align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="maulikchopra" height="30px"/></a>
-    <!-- MEDIUM -->
-    <a href="https://medium.com/@maulikchopra" target="blank"><img align="center"  src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="@maulikchopra" height="30px"/></a>
-    <!-- YOUTUBE -->
-    <a href="https://www.youtube.com/buildwithmaulik" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="30px" alt="build with maulik"/></a>
-    <!-- INSTAGRAM -->
-    <a href="https://instagram.com/maulik_chopra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maulik_chopra" height="30px"/></a>
-    <!-- TWITTER -->
-    <a href="https://twitter.com/chopra_maulik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IamMaulikChopra" height="30px" /></a>
-    <!-- STACKOVERFLOW -->
-    <a href="https://stackoverflow.com/users/18518760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18518760" height="30px"/></a>
-    <!-- LEETCODE -->
-    <a href="https://www.leetcode.com/maulikchopra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maulikchopra" height="30px"/></a>
+  <!-- MAIL -->
+  <a href="mailto:maulikchopra10@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="maulikchopra10@gmail.com" height="30px"/></a>
+  <!-- LINKEDIN -->
+  <a href="https://linkedin.com/in/maulikchopra" target="blank"><img  align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="maulikchopra" height="30px"/></a>
+  <!-- MEDIUM -->
+  <a href="https://medium.com/@maulikchopra" target="blank"><img align="center"  src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="@maulikchopra" height="30px"/></a>
+  <!-- YOUTUBE -->
+  <a href="https://www.youtube.com/buildwithmaulik" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="30px" alt="build with maulik"/></a>
+  <!-- INSTAGRAM -->
+  <a href="https://instagram.com/maulik_chopra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maulik_chopra" height="30px"/></a>
+  <!-- TWITTER -->
+  <a href="https://twitter.com/chopra_maulik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IamMaulikChopra" height="30px" /></a>
+  <!-- STACKOVERFLOW -->
+  <a href="https://stackoverflow.com/users/18518760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18518760" height="30px"/></a>
+  <!-- LEETCODE -->
+  <a href="https://www.leetcode.com/maulikchopra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maulikchopra" height="30px"/></a>
 </p>
-
+  
 📫 Email me **@maulikchopra10@gmail.com**
 
 <!-- <style>
