@@ -1,5 +1,5 @@
 <!-- MAIN CONTENT -->
-<link rel="stylesheet" type="text/css" href="styles.css">
+
 <h1 align="center">Hi 👋, I'm Maulik Chopra</h1>
 <h3 align="center">A passionate Full📱Stack💻 developer. I can build User Friendly progressive web apps, powerful RESTful APIs, and a robust backend that scales 🚀 to the MOON 🌕!</h3>
 
@@ -129,26 +129,45 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
     <!-- MAIL -->
-    <a href="mailto:maulikchopra10@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="maulikchopra10@gmail.com"/></a>
+    <a href="mailto:maulikchopra10@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="maulikchopra10@gmail.com" height="40px"/></a>
     <!-- LINKEDIN -->
-    <a href="https://linkedin.com/in/maulikchopra" target="blank"><img  align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style='background-color: white;' alt="maulikchopra"/></a>
+    <a href="https://linkedin.com/in/maulikchopra" target="blank"><img  align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style='background-color: white;' alt="maulikchopra" height="40px"/></a>
     <!-- MEDIUM -->
-    <a href="https://medium.com/@maulikchopra" target="blank"><img align="center"  src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="@maulikchopra"/></a>
+    <a href="https://medium.com/@maulikchopra" target="blank"><img align="center"  src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="@maulikchopra" height="40px"/></a>
     <!-- YOUTUBE -->
-    <a href="https://www.youtube.com/buildwithmaulik" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="build with maulik"/></a>
+    <a href="https://www.youtube.com/buildwithmaulik" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="40px" alt="build with maulik"/></a>
     <!-- INSTAGRAM -->
-    <a href="https://instagram.com/maulik_chopra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maulik_chopra"/></a>
+    <a href="https://instagram.com/maulik_chopra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maulik_chopra" height="40px"/></a>
     <!-- TWITTER -->
-    <a href="https://twitter.com/chopra_maulik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IamMaulikChopra"/></a>
+    <a href="https://twitter.com/chopra_maulik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IamMaulikChopra" height="40px" /></a>
     <!-- STACKOVERFLOW -->
-    <a href="https://stackoverflow.com/users/18518760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18518760"/></a>
+    <a href="https://stackoverflow.com/users/18518760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18518760" height="40px"/></a>
     <!-- LEETCODE -->
-    <a href="https://www.leetcode.com/maulikchopra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maulikchopra"/></a>
+    <a href="https://www.leetcode.com/maulikchopra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maulikchopra" height="40px"/></a>
 </p>
 
 📫 Email me **@maulikchopra10@gmail.com**
 
-
+<!-- <style>
+    a{
+        margin-right: 0.5rem;
+    }
+    img{
+        height: 3.5rem;
+        width: auto;
+        border-radius: 0.5rem;
+    }
+    #bg-pd-img{
+        padding: 0px 0.5rem;
+        background-color:white
+    }
+    #lang-stats-card{
+        height: auto;
+    }
+    .grid-container{
+        display: grid;
+    }
+</style> -->
 
 <!-- EXTRA CODE/ UNUSED CODE/ MISCELANEOUS CODE -->
 <!-- <p>
