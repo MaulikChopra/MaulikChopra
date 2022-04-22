@@ -20,12 +20,8 @@
 - 😂 Funny fact: **My humour is as bad as Angular**
 
 <hr>
-
-<table>
-<tr>
-<th>
 <!-- LANGUAGES I AM PROFICIENT AT -->
-<h2 align="left"><b>Languages</b> I am <b>Proficient</b> in:</h2>
+<h3 align="left">Languages I am Proficient in:</h3>
 <p align="left">
     <!-- PYTHON -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="45px"/></a>
@@ -40,7 +36,7 @@
 </p>
 
 <!-- LANGUAGES I AM COMFORTABLE WITH -->
-<h2 align="left"><b>Languages</b> I am <b>comfortable</b> with:</h2>
+<h3 align="left">Languages I am comfortable with:</h3>
 <p align="left">
     <!-- ARDUINO -->
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="45px"/></a> 
@@ -49,12 +45,12 @@
 </p>
 
 <!-- FRONTEND TECHNOLOGIES I ROCK AT -->
-<h2 align="left"><b>Frontend</b> Technologies I <b>Rock</b> at:</h2>
+<h3 align="left">Frontend Technologies I Rock at:</h3>
 <p align="left">
     <!-- REACT.JS -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="45px"/></a>
     <!-- NEXT.JS -->
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" id="bg-pd-img" height="45px"/></a> 
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="45px"/></a> 
     <!-- TAILWIND CSS -->
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="45px"/></a>
     <!-- BOOTSTRAP -->
@@ -62,30 +58,31 @@
 </p>
 
 <!-- BACKEND TECHNOLOGIES I ROCK AT -->
-<h2 align="left"><b>Backend</b> Technologies I <b>Rock</b> at:</h2>
+<h3 align="left">Backend Technologies I Rock at:</h3>
 <p align="left">
-<!-- DJANGO -->
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="45px"/></a>
-<!-- DJANGO REST FRAMEWORK -->
-<a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer"><img src="https://ksr-ugc.imgix.net/assets/011/705/984/4ea78430d3ad7dc88106a7b973248ba7_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1463687041&auto=format&frame=1&q=92&s=16f9ae9168eecef976e5a19887afb152" alt="DjangoRESTframework" height="45px"/></a> 
-<!-- NODE.JS -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs" id="bg-pd-img" height="45px"/></a>
-<!-- FIREBASE -->
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="45px"/></a>
+    <!-- DJANGO -->
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="45px"/></a>
+    <!-- DJANGO REST FRAMEWORK -->
+    <a href="https://www.django-rest-framework.org" target="_blank" rel="noreferrer"><img src="https://ksr-ugc.imgix.net/assets/011/705/984/4ea78430d3ad7dc88106a7b973248ba7_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1463687041&auto=format&frame=1&q=92&s=16f9ae9168eecef976e5a19887afb152" alt="DjangoRESTframework" height="45px"/></a> 
+    <!-- NODE.JS -->
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs" height="45px"/></a>
+    <!-- FIREBASE -->
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="45px"/></a>
 </p>
+
 <!-- DATABASES  -->
-<h2 align="left"><b>Databases</b> I can <b>Migrate:</b></h2>
+<h3 align="left">Databases I can Migrate:</h3>
 <!-- PostgreSQL -->
 <p align="left">
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="45px"/></a>
-<!-- MONGODB -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="45px"/></a>
-<!-- SQLITE -->
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="45px"/></a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="45px"/></a>
+    <!-- MONGODB -->
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="45px"/></a>
+    <!-- SQLITE -->
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="45px"/></a>
 </p>
 
 <!-- TOOLS I USE TO CODE -->
-<h2 align="left"><b>Tools</b> I use while <b>coding:</b></h2>
+<h3 align="left">Tools I use while coding:</h3>
 <p align="left">
     <!-- LINUX -->
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="45px"/></a>
@@ -102,21 +99,17 @@
     <!-- AMAZON WEB SERVICES AWS -->
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" alt="aws" height="45px"/></a>
 </p>
-</th>
-<th>
-    <div>
-        <h2 align="center"><b>My Burger Stack</b></h2>
-        <img align="right"src="mytechstack.png" height="400px"/>
-    </div>
-</th>
-</tr>
-</table>
+
+<hr>
+
+<h3 align="center">My Burger Stack</h3>
+<img align="center"src="mytechstack.png" height="400px"/>
 
 <hr>
 
 <!-- LANGUAGES STATS CARD  -->
 <p>
-    <img id="lang-stats-card" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maulikchopra&show_icons=true&locale=en&layout=compact" alt="maulikchopra" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maulikchopra&show_icons=true&locale=en&layout=compact" alt="maulikchopra" />
 </p>
 
 <hr>
@@ -128,7 +121,7 @@
 
 <hr>
 <!-- SOCIALS | CONNECT WITH ME -->
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
     <!-- MAIL -->
     <a href="mailto:maulikchopra10@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="maulikchopra10@gmail.com" height="30px"/></a>
