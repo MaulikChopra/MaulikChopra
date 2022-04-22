@@ -113,7 +113,7 @@
 
 ### My Burger Stack
 
-  <img src="mytechstack.png" height="400px"/>
+  <img src="images/mytechstack.png" height="400px"/>
 </div>
 
 <hr>
