@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Maulik Chopra
 
-### A passionate Full📱Stack💻 Web developer. I can build User Friendly progressive web apps, powerful RESTful APIs, and a robust backend that scales 🚀 to the MOON 🌕!
+### A passionate FullStack 💻 Web developer. I can build User Friendly progressive web apps, powerful RESTful APIs, and a robust backend that scales 🚀 to the MOON 🌕!
 
 </div>
 
@@ -11,11 +11,7 @@
 
 - 🌱 I’m currently learning **NEXT.js, React.js, Tailwind CSS, Django REST Framework**
 
-- 👯 I’m looking to collaborate on **startup project ideas and side hustles**
-
-- 💬 Ask me about **NEXT.js, React.js, Django, or Python Data Structures and Alogrithms**
-
-- 📝 I regularly write articles on **[My Medium blog](https://medium.com/@maulikchopra)**
+- 👨‍💻 I’m looking to collaborate on **startup project ideas and side hustles**
 
 - 📄 Know about my experiences in **[My Resume](https://bit.ly/37YjBx2)**
 
@@ -23,7 +19,17 @@
 
 - 😂 Funny fact: **My humour is as bad as Angular**
 
-<hr>
+---
+
+### My Top MOONER projects:
+
+| No. | Project Name                                                                 | Decsription                                                                             | Repo                                                                          |
+| --- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 1   | Daily dose of quotes: [Twitter Bot](https://www.twitter.com/BotTweetsQuotes) | Tweets a motivational quote every 2 hours, tracks a set of users and replies to them.   | [GitHub](https://www.github.com/MaulikChopra/Daily-dose-of-quotes-bot-PUBLIC) |
+| 2   | FullStack twitter clone                                                      | Frontend: REACT.js, tailwind CSS, & bootstrap. Backend: Django & Django REST Framework. | In dev.                                                                       |
+| 3   | Auctionaire                                                                  | Django powered auctions website. Only server side rendered website.                     | [Github](https://www.github.com/MaulikChopra/auctions-cs50web)                |
+
+---
 
 ### Languages I am Proficient at:
 
@@ -103,7 +109,7 @@
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" alt="aws" height="50px"/></a>
 </p>
 
-<hr>
+---
 
 <div align="center">
 
@@ -112,19 +118,19 @@
   <img src="images/mytechstack.png" height="400px"/>
 </div>
 
-<hr>
+---
 
 <!-- LANGUAGES STATS CARD -->
 
 ![MaulikChopra Top languages used chart](https://github-readme-stats.vercel.app/api/top-langs?username=maulikchopra&show_icons=true&locale=en&layout=compact)
 
-<hr>
+---
 
-<!-- ### Blog posts -->
+### My latest coding blogs
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!-- <hr>  -->
+
+## <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
 
