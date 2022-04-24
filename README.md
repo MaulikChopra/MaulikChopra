@@ -23,11 +23,11 @@
 
 ### My Top MOONER projects:
 
-| No. | Project Name                                                                 | Decsription/TechStack                                           | Repo                                                                          |
-| --- | ---------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 1   | Daily dose of quotes: [Twitter Bot](https://www.twitter.com/BotTweetsQuotes) | Tweets quotes and tracks users. Python worker on Heroku server. | [GitHub](https://www.github.com/MaulikChopra/Daily-dose-of-quotes-bot-PUBLIC) |
-| 2   | [Email service website](https://mail-cs50web.herokuapp.com/)                 | Django, HTML, CSS, JavaScript & PostgreSQL                      | [GitHub](https://github.com/MaulikChopra/mail-cs50web)                        |
-| 3   | Auctionaire                                                                  | Django, HTML, CSS                                               | [Github](https://www.github.com/MaulikChopra/auctions-cs50web)                |
+| No. | Project Name                                                                | Decsription/TechStack                                             | Repo                                                                          |
+| --- | --------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 1   | [Daily dose of quotes Twitter Bot](https://www.twitter.com/BotTweetsQuotes) | Tweets quotes and tracks users. Python worker on Heroku server.   | [GitHub](https://www.github.com/MaulikChopra/Daily-dose-of-quotes-bot-PUBLIC) |
+| 2   | [Email service website](https://mail-cs50web.herokuapp.com/)                | Django, HTML, CSS, JavaScript & PostgreSQL. Deployment on Heroku. | [GitHub](https://github.com/MaulikChopra/mail-cs50web)                        |
+| 3   | Auctionaire                                                                 | Django, HTML, CSS                                                 | [Github](https://www.github.com/MaulikChopra/auctions-cs50web)                |
 
 <!-- prettier-ignore -->
 <!-- | 3   | FullStack twitter clone                                                      | Frontend: REACT.js, tailwind CSS, & bootstrap. Backend: Django & Django REST Framework. | In dev.                                                                       | -->
