@@ -23,7 +23,7 @@
 
 ### My Top MOONER projects:
 
-| No. | Project Name                                                                | Decsription/TechStack                                             | Repo                                                                          |
+| No. | Project Name                                                                | Decsription & TechStack                                           | Repo                                                                          |
 | --- | --------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | 1   | [Daily dose of quotes Twitter Bot](https://www.twitter.com/BotTweetsQuotes) | Tweets quotes and tracks users. Python worker on Heroku server.   | [GitHub](https://www.github.com/MaulikChopra/Daily-dose-of-quotes-bot-PUBLIC) |
 | 2   | [Email service website](https://mail-cs50web.herokuapp.com/)                | Django, HTML, CSS, JavaScript & PostgreSQL. Deployment on Heroku. | [GitHub](https://github.com/MaulikChopra/mail-cs50web)                        |
