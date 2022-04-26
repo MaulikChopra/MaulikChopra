@@ -114,6 +114,15 @@
 
 <div align="center">
 
+### My Tech Gauntlet:
+
+Learning/Learnt all these technologies with a lot of projects.
+<img src="images/my%20tech%20gauntlet%20stones.png">
+
+</div>
+
+<div align="center">
+
 ### My Burger Stack
 
   <img src="images/mytechstack.png" height="400px"/>
