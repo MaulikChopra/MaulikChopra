@@ -117,7 +117,7 @@
 ### My Tech Gauntlet:
 
 Learning/Learnt all these technologies with a lot of projects.
-<img src="images/my%20tech%20gauntlet%20stones.png">
+<img src="images/my tech gauntlet stones.png">
 
 </div>
 
