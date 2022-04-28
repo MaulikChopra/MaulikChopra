@@ -7,30 +7,25 @@
 
 </div>
 
-- 🔭 I’m currently working on a **FullStack Twitter clone**
+- 🔭 I’m currently working on a **FullStack Twitter clone.**
 
-- 🌱 I’m currently learning **NEXT.js, React.js, Tailwind CSS, Django REST Framework**
+- 🌱 I’m currently learning **NEXT.js, React.js, Redux & Systems Design.**
 
-- 👨‍💻 I’m looking to collaborate on **startup project ideas and side hustles**
-
-- 📄 Know about my experiences in **[My Resume](https://bit.ly/37YjBx2)**
+- 📄 Know about my experiences in **[My Resume](https://bit.ly/37YjBx2)** & **[My LinkedIn](https://www.linkedin.com/in/maulik-chopra/).**
 
 - ⚡ Fun fact: **I am a Perfectionist.**
 
-- 😂 Funny fact: **My humour is as bad as Angular**
+- 😂 Funny fact: **My humour is as bad as Angular.**
 
 ---
 
-### My Top MOONER projects:
+<div align="center">
 
-| No. | Project Name                                                                | Decsription & TechStack                                           | Repo                                                                          |
-| --- | --------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 1   | [Daily dose of quotes Twitter Bot](https://www.twitter.com/BotTweetsQuotes) | Tweets quotes and tracks users. Python worker on Heroku server.   | [GitHub](https://www.github.com/MaulikChopra/Daily-dose-of-quotes-bot-PUBLIC) |
-| 2   | [Email service website](https://mail-cs50web.herokuapp.com/)                | Django, HTML, CSS, JavaScript & PostgreSQL. Deployment on Heroku. | [GitHub](https://github.com/MaulikChopra/mail-cs50web)                        |
-| 3   | Auctionaire                                                                 | Django, HTML, CSS                                                 | [Github](https://www.github.com/MaulikChopra/auctions-cs50web)                |
+### My Tech Gauntlet:
 
-<!-- prettier-ignore -->
-<!-- | 3   | FullStack twitter clone                                                      | Frontend: REACT.js, tailwind CSS, & bootstrap. Backend: Django & Django REST Framework. | In dev.                                                                       | -->
+<img src="images/my-tech-gauntlet-stonesV2.png">
+
+</div>
 
 ### Languages I am Proficient at:
 
@@ -59,6 +54,8 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="50px"/></a>
     <!-- NEXT.JS -->
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://ideas.byteridge.com/content/images/2020/08/nextjs-image.jpeg" alt="nextjs" height="50px"/></a> 
+    <!-- REDUX -->
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://juststickers.in/wp-content/uploads/2018/08/redux.png" alt="redux" height="50px"/></a>
     <!-- TAILWIND CSS -->
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="50px"/></a>
     <!-- BOOTSTRAP -->
@@ -85,8 +82,8 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="50px"/></a>
     <!-- MONGODB -->
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50px"/></a>
-    <!-- SQLITE -->
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="50px"/></a>
+    <!-- FIREBASE -->
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50px"/></a>
 </p>
 
 <!-- TOOLS I USE TO CODE -->
@@ -112,14 +109,14 @@
 
 ---
 
-<div align="center">
+### My Top MOONER projects:
 
-### My Tech Gauntlet:
-
-Learning/Learnt all these technologies with a lot of projects.
-<img src="images/my tech gauntlet stones.png">
-
-</div>
+| Project Name                                                                           | TechStack                                           | Repo                                                                          |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [Daily dose of quotes Twitter Bot](https://www.twitter.com/BotTweetsQuotes)            | TwitterAPI, NoSQL database & Heroku.                | [GitHub](https://www.github.com/MaulikChopra/Daily-dose-of-quotes-bot-PUBLIC) |
+| [Email service website](https://mail-cs50web.herokuapp.com/)                           | Django, HTML, CSS, JavaScript, PostgreSQL & Heroku. | [GitHub](https://github.com/MaulikChopra/mail-cs50web)                        |
+| Auctionaire                                                                            | Django, HTML, CSS                                   | [GitHub](https://www.github.com/MaulikChopra/auctions-cs50web)                |
+| [Google Search Clone ](https://maulikchopra.github.io/google-clone-cs50web/index.html) | HTML, CSS & GitHub Actions                          | [GitHub](www.github.com/MaulikChopra/google-clone-cs50web)                    |
 
 <div align="center">
 
