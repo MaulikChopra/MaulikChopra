@@ -138,7 +138,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### Connect with me:
+### Connect with me
 
 <p align="left">
   <!-- MAIL -->
