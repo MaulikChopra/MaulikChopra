@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: **I am a Perfectionist.**
 
-- 😂 Funny fact: **My humour is as bad as Angular.**
+<!-- - 😂 Funny fact: **My humour is as bad as Angular.** -->
 
 ---
 
