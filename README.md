@@ -136,6 +136,10 @@
 ### My latest coding blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Check if the parenthesis/brackets in a string are balanced or not. Python and stack Data Structures](https://medium.com/@maulikchopra/check-if-the-parenthesis-brackets-in-a-string-are-balanced-or-not-python-and-stack-data-structures-33ed6ae58c00?source=rss-1d49c6d49e80------2)
+- [How to implement a Queue class using deque. PYTHON data structures and algorithm.](https://medium.com/@maulikchopra/how-to-implement-a-queue-class-using-deque-python-data-structures-and-algorithm-37531e1ff7e3?source=rss-1d49c6d49e80------2)
+- [How to implement a stack class and deque. PYTHON data structures and algorithm.](https://medium.com/@maulikchopra/how-to-implement-a-stack-class-and-deque-python-data-structures-and-algorithm-5aa601f2d063?source=rss-1d49c6d49e80------2)
+- [How to implement Binary Search in PYTHON. Binary Search code with recursion and iteration.](https://medium.com/@maulikchopra/how-to-implement-binary-search-in-python-binary-search-code-with-recursion-and-iteration-cd03567cf70e?source=rss-1d49c6d49e80------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
