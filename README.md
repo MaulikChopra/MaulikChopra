@@ -115,7 +115,7 @@
 | -------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [Daily dose of quotes Twitter Bot](https://www.twitter.com/BotTweetsQuotes)            | TwitterAPI, NoSQL database & Heroku.                | [GitHub](https://www.github.com/MaulikChopra/Daily-dose-of-quotes-bot-PUBLIC) |
 | [Email service website](https://mail-cs50web.herokuapp.com/)                           | Django, HTML, CSS, JavaScript, PostgreSQL & Heroku. | [GitHub](https://github.com/MaulikChopra/mail-cs50web)                        |
-| Auctionaire                                                                            | Django, HTML, CSS                                   | [GitHub](https://www.github.com/MaulikChopra/auctions-cs50web)                |
+| [Auctionaire](https://auctions-cs50web.herokuapp.com/)                                 | Django, HTML, CSS, Server side rendering & Heroku.  | [GitHub](https://www.github.com/MaulikChopra/auctions-cs50web)                |
 | [Google Search Clone ](https://maulikchopra.github.io/google-clone-cs50web/index.html) | HTML, CSS & GitHub Actions                          | [GitHub](www.github.com/MaulikChopra/google-clone-cs50web)                    |
 
 <div align="center">
@@ -136,6 +136,7 @@
 ### My latest coding blogs
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Check if the parenthesis/brackets in a string are balanced or not. Python and stack Data Structures](https://medium.com/@maulikchopra/check-if-the-parenthesis-brackets-in-a-string-are-balanced-or-not-python-and-stack-data-structures-33ed6ae58c00?source=rss-1d49c6d49e80------2)
 - [How to implement a Queue class using deque. PYTHON data structures and algorithm.](https://medium.com/@maulikchopra/how-to-implement-a-queue-class-using-deque-python-data-structures-and-algorithm-37531e1ff7e3?source=rss-1d49c6d49e80------2)
 - [How to implement a stack class and deque. PYTHON data structures and algorithm.](https://medium.com/@maulikchopra/how-to-implement-a-stack-class-and-deque-python-data-structures-and-algorithm-5aa601f2d063?source=rss-1d49c6d49e80------2)
