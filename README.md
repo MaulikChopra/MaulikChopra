@@ -11,17 +11,13 @@
 
 - 🌱 I’m currently learning **NEXT.js, React.js, Redux & Systems Design.**
 
-- 📄 Know about my experiences in **[My Resume](https://bit.ly/37YjBx2)** & **[My LinkedIn](https://www.linkedin.com/in/maulik-chopra/).**
-
-- ⚡ Fun fact: **I am a Perfectionist.**
-
-<!-- - 😂 Funny fact: **My humour is as bad as Angular.** -->
+- 📄 Know about my experiences in **[My LinkedIn](https://www.linkedin.com/in/maulik-chopra/).**
 
 ---
 
 <div align="center">
 
-### My Tech Gauntlet:
+### My Technology Expertise:
 
 <img src="images/my-tech-gauntlet-stonesV2.png">
 
@@ -108,8 +104,8 @@
 </p>
 
 ---
-
-### My Top MOONER projects:
+<!--
+### My Top projects:
 
 | Project Name                                                                           | TechStack                                           | Repo                                                                          |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------- |
@@ -120,14 +116,14 @@
 
 <div align="center">
 
-### My Burger Stack
+### My Tech Stack
 
   <img src="images/mytechstack.png" height="400px"/>
 </div>
 
 ---
 
-<!-- LANGUAGES STATS CARD -->
+ LANGUAGES STATS CARD -->
 
 ![MaulikChopra Top languages used chart](https://github-readme-stats.vercel.app/api/top-langs?username=maulikchopra&show_icons=true&locale=en&layout=compact)
 
@@ -135,12 +131,12 @@
 
 ### My latest coding blogs
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 - [Check if the parenthesis/brackets in a string are balanced or not. Python and stack Data Structures](https://medium.com/@maulikchopra/check-if-the-parenthesis-brackets-in-a-string-are-balanced-or-not-python-and-stack-data-structures-33ed6ae58c00?source=rss-1d49c6d49e80------2)
 - [How to implement a Queue class using deque. PYTHON data structures and algorithm.](https://medium.com/@maulikchopra/how-to-implement-a-queue-class-using-deque-python-data-structures-and-algorithm-37531e1ff7e3?source=rss-1d49c6d49e80------2)
 - [How to implement a stack class and deque. PYTHON data structures and algorithm.](https://medium.com/@maulikchopra/how-to-implement-a-stack-class-and-deque-python-data-structures-and-algorithm-5aa601f2d063?source=rss-1d49c6d49e80------2)
 - [How to implement Binary Search in PYTHON. Binary Search code with recursion and iteration.](https://medium.com/@maulikchopra/how-to-implement-binary-search-in-python-binary-search-code-with-recursion-and-iteration-cd03567cf70e?source=rss-1d49c6d49e80------2)
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:END -->
 
 ### Connect with me
 
@@ -151,15 +147,15 @@
   <a href="https://linkedin.com/in/maulikchopra" target="blank"><img  align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PK_Drf8Hdfv-bIMJttY3sQa97T8rh9Tg8Yb7R7E_vC_cemcEXoigJ_dQ5qBN7E3yRo8&usqp=CAU" alt="maulikchopra" height="30px"/></a>
   <!-- GITHUB -->
   <a href="https://www.github.com/MaulikChopra" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="maulikchopra" height="30px"/></a>
-  <!-- MEDIUM -->
+  <!-- MEDIUM
   <a href="https://medium.com/@maulikchopra" target="blank"><img align="center"  src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="@maulikchopra" height="30px"/></a>
-  <!-- YOUTUBE -->
+YOUTUBE
   <a href="https://www.youtube.com/buildwithmaulik" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="30px" alt="build with maulik"/></a>
-  <!-- INSTAGRAM -->
+INSTAGRAM 
   <a href="https://instagram.com/maulik_chopra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maulik_chopra" height="30px"/></a>
-  <!-- TWITTER -->
+TWITTER 
   <a href="https://twitter.com/chopra_maulik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IamMaulikChopra" height="30px" /></a>
-  <!-- STACKOVERFLOW -->
+  <!-- STACKOVERFLOW 
   <a href="https://stackoverflow.com/users/18518760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18518760" height="30px"/></a>
   <!-- LEETCODE -->
   <a href="https://www.leetcode.com/maulikchopra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maulikchopra" height="30px"/></a>
