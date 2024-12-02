@@ -17,6 +17,7 @@ Throughout his career, Maulik has worked on diverse projects, including the Book
 
 With additional experience in AWS, Google Cloud, Firebase, and OpenAI API, Maulik is committed to staying ahead of the curve in tech innovation. He is eager to apply his skills and continue delivering impactful, scalable solutions in full-stack web development, data analytics, and AI-driven applications.
 
+<!--
 - 📄 Know about my experiences in **[My LinkedIn](https://www.linkedin.com/in/maulik-chopra/).**
 
 ---
@@ -28,6 +29,106 @@ With additional experience in AWS, Google Cloud, Firebase, and OpenAI API, Mauli
 <img src="images/my-tech-gauntlet-stonesV2.png">
 
 </div> -->
+
+---
+
+### SOFTWARE SKILLS:
+
+**Languages** – JavaScript, TypeScript, Python, HTML, CSS, C, Java.
+
+**Frameworks** – React Native, React js, Next js, Node js, Django, Tailwind CSS, Expo, Firebase.
+
+**Databases** – Firestore, MongoDB, my SQL, Postgresql.
+
+**Tools** – Git, AWS, Google cloud, Open AI API, Algolia, Figma, Docker, Postman, Xcode, Android Studio.
+
+---
+
+### My Experience:
+
+#### 9 Minute Reads – Gurugram, Haryana, India  
+**Founder and Lead Developer** – June 2024 - August 2024  
+- Founded and led the development of a generative AI-powered book summary product, creating a website and cross-platform mobile app with 6,000+ book summaries, recommendations, and 2 million+ words of content.  
+- Managed a team of 3, demonstrating entrepreneurial acumen and attracting investment offers exceeding $10,000.  
+
+#### AssistCheck.org – Gurugram, Haryana, India  
+**Founder** – June 2023 - August 2023  
+- Implemented websites and funnels for over 10 clients, boosting their digital presence and engagement by 300%.  
+- Delivered tailored software solutions to NGOs, enhancing operational efficiency by 50% for over 700 volunteers.  
+
+#### YouTube Channel – Remote  
+**Content Creator** – October 2016 - 2020  
+- Programmed Arduino robots in C, creating tutorial videos that garnered over 4 million views and 12.5k subscribers.  
+
+---
+
+### My Projects:
+
+#### Book Reading Mobile App: iOS and Android – November 2023  
+- **Technology**: React Native, Expo, OpenAI API, Tailwind CSS, TypeScript, Firebase Native, Algolia, Figma, Git  
+- Developed 25+ UI screens, reading mode, animations, AI recommendations, and 6,000+ images within 2 months  
+
+#### Book Reading Website – August 2023  
+- **Technology**: React JS, Next JS, OpenAI API, Tailwind CSS, TypeScript, Firebase, Algolia, Figma, Revenue Cat  
+- Implemented 10+ UI pages, 6,000+ book search entries, and 2 million+ words of AI-generated book content  
+
+#### Twitter Clone Website: Full Stack – November 2022  
+- **Technology**: Python, React JS, Next JS, Tailwind CSS, JavaScript, TypeScript, Firebase, Git  
+- Designed the user interface cloning the real Twitter site with 15+ web pages and backend integration in 1 month  
+
+#### Auctions Website: Full Stack – April 2022  
+- **Technology**: Python, Django, Django REST Framework, PostgreSQL, JavaScript, HTML, CSS, Bootstrap, Git  
+- Engineered an auction platform with real-time user listings, bidding, and commenting that hosts 2,000+ listings
+
+  ---
+
+### Courses and Certifications:
+
+**Wharton Entrepreneurship Specialization(5 courses)** – University of Pennsylvania. – June - July 2024
+
+**CS50’s Web Programming with Python and JavaScript** – Harvard University. – February - March 2022
+
+**CS50’s Introduction to Computer Science** – Harvard University. – August - December 2021
+
+**MITx 6.00.1x: Programming Using Python** – Massachusetts Institute of Technology. – July - August 2021
+
+**Harvardx PH526x: Using Python for research** – Harvard University. – May - July 2021
+
+ ---
+
+<!--
+### My Top projects:
+
+| Project Name                                                                           | TechStack                                           | Repo                                                                          |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [Daily dose of quotes Twitter Bot](https://www.twitter.com/BotTweetsQuotes)            | TwitterAPI, NoSQL database & Heroku.                | [GitHub](https://www.github.com/MaulikChopra/Daily-dose-of-quotes-bot-PUBLIC) |
+| [Email service website](https://mail-cs50web.herokuapp.com/)                           | Django, HTML, CSS, JavaScript, PostgreSQL & Heroku. | [GitHub](https://github.com/MaulikChopra/mail-cs50web)                        |
+| [Auctionaire](https://auctions-cs50web.herokuapp.com/)                                 | Django, HTML, CSS, Server side rendering & Heroku.  | [GitHub](https://www.github.com/MaulikChopra/auctions-cs50web)                |
+| [Google Search Clone ](https://maulikchopra.github.io/google-clone-cs50web/index.html) | HTML, CSS & GitHub Actions                          | [GitHub](www.github.com/MaulikChopra/google-clone-cs50web)                    |
+
+<div align="center">
+
+### My Tech Stack
+
+  <img src="images/mytechstack.png" height="400px"/>
+</div>
+
+---
+
+ LANGUAGES STATS CARD 
+
+![MaulikChopra Top languages used chart](https://github-readme-stats.vercel.app/api/top-langs?username=maulikchopra&show_icons=true&locale=en&layout=compact)
+
+---
+<!-- 
+### My latest coding blogs
+
+BLOG-POST-LIST:START 
+- [Check if the parenthesis/brackets in a string are balanced or not. Python and stack Data Structures](https://medium.com/@maulikchopra/check-if-the-parenthesis-brackets-in-a-string-are-balanced-or-not-python-and-stack-data-structures-33ed6ae58c00?source=rss-1d49c6d49e80------2)
+- [How to implement a Queue class using deque. PYTHON data structures and algorithm.](https://medium.com/@maulikchopra/how-to-implement-a-queue-class-using-deque-python-data-structures-and-algorithm-37531e1ff7e3?source=rss-1d49c6d49e80------2)
+- [How to implement a stack class and deque. PYTHON data structures and algorithm.](https://medium.com/@maulikchopra/how-to-implement-a-stack-class-and-deque-python-data-structures-and-algorithm-5aa601f2d063?source=rss-1d49c6d49e80------2)
+- [How to implement Binary Search in PYTHON. Binary Search code with recursion and iteration.](https://medium.com/@maulikchopra/how-to-implement-binary-search-in-python-binary-search-code-with-recursion-and-iteration-cd03567cf70e?source=rss-1d49c6d49e80------2)
+BLOG-POST-LIST:END -->
 
 ### Languages I am Proficient at:
 
@@ -110,49 +211,19 @@ With additional experience in AWS, Google Cloud, Firebase, and OpenAI API, Mauli
 </p>
 
 ---
-<!--
-### My Top projects:
-
-| Project Name                                                                           | TechStack                                           | Repo                                                                          |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Daily dose of quotes Twitter Bot](https://www.twitter.com/BotTweetsQuotes)            | TwitterAPI, NoSQL database & Heroku.                | [GitHub](https://www.github.com/MaulikChopra/Daily-dose-of-quotes-bot-PUBLIC) |
-| [Email service website](https://mail-cs50web.herokuapp.com/)                           | Django, HTML, CSS, JavaScript, PostgreSQL & Heroku. | [GitHub](https://github.com/MaulikChopra/mail-cs50web)                        |
-| [Auctionaire](https://auctions-cs50web.herokuapp.com/)                                 | Django, HTML, CSS, Server side rendering & Heroku.  | [GitHub](https://www.github.com/MaulikChopra/auctions-cs50web)                |
-| [Google Search Clone ](https://maulikchopra.github.io/google-clone-cs50web/index.html) | HTML, CSS & GitHub Actions                          | [GitHub](www.github.com/MaulikChopra/google-clone-cs50web)                    |
-
-<div align="center">
-
-### My Tech Stack
-
-  <img src="images/mytechstack.png" height="400px"/>
-</div>
-
----
-
- LANGUAGES STATS CARD -->
-
-![MaulikChopra Top languages used chart](https://github-readme-stats.vercel.app/api/top-langs?username=maulikchopra&show_icons=true&locale=en&layout=compact)
-
----
-
-### My latest coding blogs
-
-<!-- BLOG-POST-LIST:START 
-- [Check if the parenthesis/brackets in a string are balanced or not. Python and stack Data Structures](https://medium.com/@maulikchopra/check-if-the-parenthesis-brackets-in-a-string-are-balanced-or-not-python-and-stack-data-structures-33ed6ae58c00?source=rss-1d49c6d49e80------2)
-- [How to implement a Queue class using deque. PYTHON data structures and algorithm.](https://medium.com/@maulikchopra/how-to-implement-a-queue-class-using-deque-python-data-structures-and-algorithm-37531e1ff7e3?source=rss-1d49c6d49e80------2)
-- [How to implement a stack class and deque. PYTHON data structures and algorithm.](https://medium.com/@maulikchopra/how-to-implement-a-stack-class-and-deque-python-data-structures-and-algorithm-5aa601f2d063?source=rss-1d49c6d49e80------2)
-- [How to implement Binary Search in PYTHON. Binary Search code with recursion and iteration.](https://medium.com/@maulikchopra/how-to-implement-binary-search-in-python-binary-search-code-with-recursion-and-iteration-cd03567cf70e?source=rss-1d49c6d49e80------2)
-BLOG-POST-LIST:END -->
 
 ### Connect with me
 
 <p align="left">
   <!-- MAIL -->
   <a href="mailto:maulikchopra10@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="maulikchopra10@gmail.com" height="30px"/></a>
+    maulikchopra10@gmail.com
   <!-- LINKEDIN -->
   <a href="https://linkedin.com/in/maulikchopra" target="blank"><img  align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3PK_Drf8Hdfv-bIMJttY3sQa97T8rh9Tg8Yb7R7E_vC_cemcEXoigJ_dQ5qBN7E3yRo8&usqp=CAU" alt="maulikchopra" height="30px"/></a>
+    https://linkedin.com/in/maulikchopra
   <!-- GITHUB -->
   <a href="https://www.github.com/MaulikChopra" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="maulikchopra" height="30px"/></a>
+    https://www.github.com/MaulikChopra
   <!-- MEDIUM
   <a href="https://medium.com/@maulikchopra" target="blank"><img align="center"  src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="@maulikchopra" height="30px"/></a>
 YOUTUBE
@@ -163,6 +234,7 @@ TWITTER
   <a href="https://twitter.com/chopra_maulik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="IamMaulikChopra" height="30px" /></a>
   <!-- STACKOVERFLOW 
   <a href="https://stackoverflow.com/users/18518760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18518760" height="30px"/></a>
-  <!-- LEETCODE -->
+  <!-- LEETCODE
   <a href="https://www.leetcode.com/maulikchopra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maulikchopra" height="30px"/></a>
 </p>
+ -->
