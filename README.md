@@ -20,14 +20,14 @@ With additional experience in AWS, Google Cloud, Firebase, and OpenAI API, Mauli
 - 📄 Know about my experiences in **[My LinkedIn](https://www.linkedin.com/in/maulik-chopra/).**
 
 ---
-
+<!--
 <div align="center">
 
 ### My Technology Expertise:
 
 <img src="images/my-tech-gauntlet-stonesV2.png">
 
-</div>
+</div> -->
 
 ### Languages I am Proficient at:
 
