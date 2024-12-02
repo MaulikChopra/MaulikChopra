@@ -3,13 +3,19 @@
 
 # Hi 👋, I'm Maulik Chopra
 
-### A passionate FullStack 💻 Web developer. I can build User Friendly progressive web apps, powerful RESTful APIs, and a robust backend that scales 🚀 to the MOON 🌕!
+### A passionate Full-Stack Web Developer 💻 | Mobile App Developer 📱 | AI Enthusiast 🤖 | Entrepreneur 🚀 | Founder of 9 Minute Reads 📚 | Building Scalable Solutions with React, Django, Python, & AI 🌟
 
 </div>
 
-- 🔭 I’m currently working on a **FullStack Twitter clone.**
+Maulik Chopra is a passionate and results-driven software engineer specializing in full-stack web development, mobile applications, and AI-powered solutions. With a strong foundation in Python, JavaScript, React.js, Django, and React Native, Maulik has demonstrated an impressive ability to deliver scalable, high-impact projects across various domains.
 
-- 🌱 I’m currently learning **NEXT.js, React.js, Redux & Systems Design.**
+As the Founder and Lead Developer of 9 Minute Reads, Maulik designed and developed a generative AI-powered book summary platform, creating a website and cross-platform mobile apps with 6,000+ book summaries and AI-powered recommendations. He led a team of 5 developers, attracting investment offers worth 5 figures and driving product growth. Maulik has proven his entrepreneurial acumen through the development of innovative solutions that are transforming how users engage with content.
+
+Maulik’s experience also includes founding AssistCheck.org, a technology consulting startup, where he developed custom websites and software for 10+ NGOs, enhancing their digital presence and engagement by 300%. His expertise in transitioning organizations from paper-based systems to digital solutions significantly improved operational efficiency.
+
+Throughout his career, Maulik has worked on diverse projects, including the Book Reading Mobile App and Website, where he implemented 25+ UI screens, integrated 6,000+ images, and delivered AI-generated book content comprising over 2 million words in just 2 months. He has also built a Twitter Clone with 15+ UI pages, completing backend integration in 1 month.
+
+With additional experience in AWS, Google Cloud, Firebase, and OpenAI API, Maulik is committed to staying ahead of the curve in tech innovation. He is eager to apply his skills and continue delivering impactful, scalable solutions in full-stack web development, data analytics, and AI-driven applications.
 
 - 📄 Know about my experiences in **[My LinkedIn](https://www.linkedin.com/in/maulik-chopra/).**
 
